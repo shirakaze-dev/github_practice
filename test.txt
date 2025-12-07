@@ -2,4 +2,5 @@ test
 test2
 local commit
 remote commit
+local commit 2
 remote commit 2
